@@ -11,9 +11,3 @@ class Enemy_
 	private:
 	protected:
 };
-
-//Enemy_ CE_Create_Enemy_()
-//{
-//	Enemy_ LV_Ref_;
-//	return LV_Ref_;
-//}
